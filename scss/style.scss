@@ -1,0 +1,114 @@
+
+/* Header */
+
+.header {
+/*position: relative;
+*/width: 1920px;
+height: 150px;
+left: -240px;
+top: 0px;
+
+background: #030303;
+}
+
+.Louvre {
+	display: flex;
+}
+
+.img_Louvre {
+
+}
+
+.p_Louvre {
+	position: relative;
+width: 125px;
+height: 31px;
+
+font-family: Forum;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 31px;
+/* identical to box height */
+
+letter-spacing: 5px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+
+/* Main */
+
+/* Welcome */
+
+.Welcome {
+/*position: relative;*/
+width: 1920px;
+height: 842px;
+left: -240px;
+top: -32px;
+
+background: #030303;
+}
+
+.Welcome_to_the_Louvre {
+	position: absolute;
+width: 593px;
+height: 180px;
+left: 0px;
+top: 0px;
+
+font-family: Forum;
+font-style: normal;
+font-weight: normal;
+font-size: 80px;
+line-height: 90px;
+/* or 112% */
+
+letter-spacing: 5px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.From_the_castle {
+	position: absolute;
+width: 445px;
+height: 33px;
+left: 0px;
+top: 205px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 28px;
+line-height: 33px;
+/* identical to box height */
+
+letter-spacing: 2px;
+
+color: #FFFFFF;
+}
+
+.Discover {
+	position: absolute;
+width: 360px;
+height: 75px;
+left: 0px;
+top: 0px;
+background: #710707;
+border-radius: 10px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 22px;
+line-height: 26px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 2px;
+
+color: #FFFFFF;
+}
